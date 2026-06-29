@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Nike Dri-FIT Running",
+    "imagen": "camiseta-nike-drifit-running.jpg",
+    "stock": 15,
+    "precio": 18500,
+    "descripcion": "Camiseta de running con tecnología Dri-FIT que aleja la humedad de la piel. Corte ajustado, liviana y transpirable. Ideal para entrenamientos de alta intensidad."
+  },
+  {
+    "id": 2,
+    "nombre": "Short Adidas Tiro 23",
+    "imagen": "short-adidas-tiro23.jpg",
+    "stock": 22,
+    "precio": 14200,
+    "descripcion": "Short deportivo de la línea Tiro 23 de Adidas. Tela reciclada, cintura elástica con cordón, bolsillos laterales. Apto para fútbol y entrenamiento general."
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatillas Puma Velocity Nitro 2",
+    "imagen": "zapatillas-puma-velocity-nitro2.jpg",
+    "stock": 8,
+    "precio": 62000,
+    "descripcion": "Zapatillas de running con suela de espuma NITRO para máxima amortiguación. Upper de malla ligera, diseño moderno. Disponibles en talle 38 al 45."
+  },
+  {
+    "id": 4,
+    "nombre": "Buzo Topper Training con capucha",
+    "imagen": "buzo-topper-training-capucha.jpg",
+    "stock": 30,
+    "precio": 22800,
+    "descripcion": "Buzo de entrenamiento con capucha y bolsillo canguro. Tela polar interior, resistente al frío. Ideal para actividades al aire libre en días frescos."
+  },
+  {
+    "id": 5,
+    "nombre": "Calza Bajo Cero Térmica Mujer",
+    "imagen": "calza-bajocero-termica-mujer.jpg",
+    "stock": 18,
+    "precio": 16900,
+    "descripcion": "Calza térmica de compresión para mujer. Tela suave al tacto, sin costuras irritantes, secado rápido. Perfecta para correr en invierno o como prenda base."
+  },
+  {
+    "id": 6,
+    "nombre": "Remera Umbro Dry Tech",
+    "imagen": "remera-umbro-drytech.jpg",
+    "stock": 40,
+    "precio": 11500,
+    "descripcion": "Remera deportiva con tecnología Dry Tech de secado rápido. Cuello redondo, corte regular. Disponible en varios colores. Apta para fútbol, gym y actividades recreativas."
+  },
+  {
+    "id": 7,
+    "nombre": "Medias Nike Elite Crew",
+    "imagen": "medias-nike-elite-crew.jpg",
+    "stock": 60,
+    "precio": 4800,
+    "descripcion": "Medias deportivas de caña alta con zona acolchada en la planta. Tejido con Dri-FIT para mantener los pies secos. Pack de 3 pares."
+  },
+  {
+    "id": 8,
+    "nombre": "Campera Rompevientos Adidas Entrada 22",
+    "imagen": "campera-adidas-entrada22.jpg",
+    "stock": 12,
+    "precio": 34500,
+    "descripcion": "Campera rompevientos liviana con capucha. Resistente al viento y a la lluvia ligera. Se guarda en su propio bolsillo. Ideal para running y fútbol."
+  },
+  {
+    "id": 9,
+    "nombre": "Pelota de Fútbol Número 5 Nike Strike",
+    "imagen": "pelota-nike-strike-n5.jpg",
+    "stock": 25,
+    "precio": 27000,
+    "descripcion": "Pelota de fútbol oficial número 5 con cámara de butilo para mejor retención del aire. Superficie texturada para mayor control. Apta para canchas de césped natural y sintético."
+  },
+  {
+    "id": 10,
+    "nombre": "Mochila deportiva Puma Phase 22L",
+    "imagen": "mochila-puma-phase-22l.jpg",
+    "stock": 17,
+    "precio": 19800,
+    "descripcion": "Mochila deportiva de 22 litros con compartimiento principal amplio, bolsillo frontal organizador y laterales para botellas. Correas acolchadas. Ideal para el gym o la cancha."
+  },
+  {
+    "id": 11,
+    "nombre": "Camiseta River Plate Titular 2024",
+    "imagen": "camiseta-river-titular-2024.jpg",
+    "stock": 5,
+    "precio": 45000,
+    "descripcion": "Camiseta oficial del Club Atlético River Plate temporada 2024. Tela liviana y transpirable, escudo bordado, tecnología de secado rápido. Producto oficial con holograma de autenticidad."
+  },
+  {
+    "id": 12,
+    "nombre": "Guantes de Arquero Uhlsport Soft",
+    "imagen": "guantes-uhlsport-soft.jpg",
+    "stock": 9,
+    "precio": 23500,
+    "descripcion": "Guantes de arquero con palma de látex negativo para mayor agarre. Cierre con velcro regulable. Aptos para canchas húmedas y secas. Talle 7 al 11."
+  },
+  {
+    "id": 13,
+    "nombre": "Pantalón de Jogging Adidas Essentials",
+    "imagen": "pantalon-jogging-adidas-essentials.jpg",
+    "stock": 35,
+    "precio": 21000,
+    "descripcion": "Pantalón de jogging con puños en los tobillos, cintura elástica con cordón y bolsillos laterales con cierre. Tela French Terry suave. Ideal para el día a día y el entrenamiento."
+  },
+  {
+    "id": 14,
+    "nombre": "Botines Adidas Predator Accuracy.3",
+    "imagen": "botines-adidas-predator-accuracy3.jpg",
+    "stock": 6,
+    "precio": 54000,
+    "descripcion": "Botines de fútbol con taco de HG (piso duro). Upper con zona de control en el empeine para mayor precisión. Suela con tacos cortos distribuidos para mejor tracción en césped sintético."
+  },
+  {
+    "id": 15,
+    "nombre": "Vincha Deportiva Under Armour",
+    "imagen": "vincha-underarmour.jpg",
+    "stock": 50,
+    "precio": 3900,
+    "descripcion": "Vincha deportiva unisex antideslizante. Tela absorbente que mantiene el cabello y el sudor fuera de la cara. Ancho 4 cm. Disponible en negro, blanco y azul."
+  },
+  {
+    "id": 16,
+    "nombre": "Top deportivo Topper Mujer",
+    "imagen": "top-topper-mujer.jpg",
+    "stock": 28,
+    "precio": 9800,
+    "descripcion": "Top deportivo de sujeción media para mujer. Espalda con detalle cruzado, tela con compresión suave. Ideal para yoga, pilates y entrenamiento de baja a media intensidad."
+  },
+  {
+    "id": 17,
+    "nombre": "Botella deportiva Nike Fuel 700ml",
+    "imagen": "botella-nike-fuel-700ml.jpg",
+    "stock": 45,
+    "precio": 8500,
+    "descripcion": "Botella de agua deportiva con tapa de rosca y boquilla flip-top. Libre de BPA. Capacidad 700ml. Diseño ergonómico para sujetar con una mano durante el ejercicio."
+  },
+  {
+    "id": 18,
+    "nombre": "Rodillera de Compresión McDavid",
+    "imagen": "rodillera-mcdavid.jpg",
+    "stock": 20,
+    "precio": 12400,
+    "descripcion": "Rodillera de compresión con soporte rotular. Tela elástica de 4 vías, orificio anatómico en la rótula. Ideal para la recuperación y prevención de lesiones en actividades de impacto."
+  },
+  {
+    "id": 19,
+    "nombre": "Gorra Running New Balance Performance",
+    "imagen": "gorra-newbalance-performance.jpg",
+    "stock": 33,
+    "precio": 7600,
+    "descripcion": "Gorra de running ultraliviana con visera corva. Tela de malla transpirable, cierre trasero ajustable. Protección UV 30+. Disponible en varios colores."
+  },
+  {
+    "id": 20,
+    "nombre": "Cuerda para Saltar Everlast Speed Rope",
+    "imagen": "cuerda-everlast-speed-rope.jpg",
+    "stock": 38,
+    "precio": 6200,
+    "descripcion": "Cuerda para saltar de velocidad con cable de acero recubierto de PVC. Mangos de aluminio con rodamiento de bolas para rotación fluida. Largo regulable. Ideal para boxeo y crossfit."
+  }
+]
